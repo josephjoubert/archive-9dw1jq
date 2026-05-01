@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://josephjoubert.github.io/archive-9dw1jq/sitemap.xml
